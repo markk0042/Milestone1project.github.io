@@ -1,0 +1,46 @@
+
+/*images-----*/
+body{
+
+    background: url("../css/assets/imgs/gym.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*---------NAVSTYLING------*/
+
+
+
+
+
+
+
+
+
+
+
+/*-----CALLOUT REGION---*/
+
+
+.jumbotron{
+
+
+    background-color: rgba(210, 241, 72, 0.7)
+    
+}
+
+.block-divider--GREY{
+    background-color: #444;
+
+}
+    .block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
+    }
