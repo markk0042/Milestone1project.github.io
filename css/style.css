@@ -11,17 +11,9 @@ body{
     -o-background-size: cover;
     background-size: cover;
 }
+   
 
 /*---------NAVSTYLING------*/
-
-
-
-
-
-
-
-
-
 
 
 /*-----CALLOUT REGION---*/
@@ -29,9 +21,22 @@ body{
 
 .jumbotron{
 
+background: #444;
+margin-bottom: 310px;
+}
 
-    background-color: rgba(210, 241, 72, 0.7)
-    
+.jumbotron h1 {
+    color: rgb(241, 238, 238);
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: white;
+
+}
+
+.jumbotron .lead {
+    color: #a7a7a7;
+    margin: 25px 0;
+
 }
 
 .block-divider--GREY{
@@ -44,3 +49,11 @@ body{
     border: 0;
     background-color: #444;
     }
+
+
+    /*-----GYM LIFE section---*/
+ 
+
+
+
+
