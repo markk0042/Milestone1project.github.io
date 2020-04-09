@@ -2,6 +2,8 @@
 /*images-----*/
 body{
 
+
+
     background: url("../css/assets/imgs/gym.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -30,7 +32,7 @@ margin-bottom: 310px;
     font-weight: bold;
     margin-bottom: 30px;
     color: white;
-
+    font-family: 'Carter One', cursive, sans-serif;
 }
 
 .jumbotron .lead {
@@ -40,20 +42,97 @@ margin-bottom: 310px;
 }
 
 .block-divider--GREY{
-    background-color: #444;
+       color: #ee3211;
+
 
 }
     .block-divider {
     width: 75px;
     height: 5px;
     border: 0;
-    background-color: #444;
+    background-color: #ee3211;
     }
 
 
-    /*-----GYM LIFE section---*/
+    /*-----GYM facilities section---*/
  
 
+.page-header {
+    text-align: center;
+    color: #ee3211;
+    font-family: 'Permanent Marker', cursive, sans-serif;
+}
+
+
+.page-footer {
+    background-color: #444;
+}
+
+.fb-ic{
+    color:#0b68e2;
+    font-size: 25px;
+}
+
+.tw-ic {
+font-size: 25px;
+color:#0bc2e2;
+}
+
+.li-ic {
+font-size: 25px;
+color:#0be27e;
+
+}
+
+.ins-ic{
+font-size: 25px;
+color:#e26c0b;
+    
+}
+
+.fb-ic:hover {
+transition: 1.5s;
+color: #ee3211;
+
+}
+
+.tw-ic:hover {
+transition: 1.5s;
+color: #ee3211;
+
+}
+
+.li-ic:hover {
+transition: 1.5s;
+color: #ee3211;
+
+}
+
+
+.ins-ic:hover {
+transition: 1.5s;
+color: #ee3211;
+
+}
 
 
 
+
+
+footer{
+
+    margin-top: 10px;
+}
+
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+
+}
+
+#photo img {
+    width: 100%;
+
+}
