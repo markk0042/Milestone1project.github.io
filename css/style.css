@@ -4,7 +4,7 @@ body{
 
 
 
-    background: url("../css/assets/imgs/gym.jpg");
+    background: url("../css/assets/gym/gym.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -64,6 +64,13 @@ margin-bottom: 310px;
 }
 
 
+
+.follow-us{
+    color: #fff;
+    font-size: 20x;
+}
+
+
 .page-footer {
     background-color: #444;
 }
@@ -94,6 +101,7 @@ color:#e26c0b;
 transition: 1.5s;
 color: #ee3211;
 
+
 }
 
 .tw-ic:hover {
@@ -116,9 +124,6 @@ color: #ee3211;
 }
 
 
-
-
-
 footer{
 
     margin-top: 10px;
@@ -135,4 +140,41 @@ footer{
 #photo img {
     width: 100%;
 
+}
+
+
+.footer-link{
+
+    color: #fff;
+    font-size: 15x;
+}
+
+.footer-contact{
+
+    color: #fff;
+    font-size: 15x;
+
+
+}
+
+
+.about-us {
+   
+    font-size: 15x;
+
+
+}
+
+.about-us-text{
+
+    color: #fff;
+    font-size: 15x;
+    font-family: sans-serif;
+}
+
+.details{
+
+     color: #fff;
+    font-size: 15x;
+    font-family: sans-serif;
 }
