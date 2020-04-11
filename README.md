@@ -12,7 +12,7 @@ When the site is viewed on a mobile version I have made some of the content be h
 UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things:
 
-
+This site is aimed at all individuals, young or old, its a site advertising a gym and its features and offers a free extended period if you join, it has images of a pool, fitness classes and the gym, it has the option of taking Personal Trainer classes, swimming lessons, and also in the navbar has the option of booking a fitness class from the list given in the classes section. The extended period of time is added to entise people to buy the membership and the classes shown are to work together in groups having fun while getting fit, also if your new it has the option to book in with a personal trainers to show you and send you on the right path to get a fitter lifestyle.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
@@ -108,10 +108,10 @@ which are:
 
 Youtube tutorial how to videos for assitance:
 
-(https://youtu.be/qIPdaBIQXtg
-https://youtu.be/uw6ICPFVJzs
-https://www.youtube.com/watch?v=5xzaGSYd7jM&t=1s
-https://youtu.be/uN7NWfC86PM)
+(https://youtu.be/qIPdaBIQXtg)
+(https://youtu.be/uw6ICPFVJzs\)
+(https://www.youtube.com/watch?v=5xzaGSYd7jM&t=1s)
+(https://youtu.be/uN7NWfC86PM)
 
 I used inspiration from previous projects I completed in code Insititute as my journey into the full Stack Developer Role
 for example which i thought was pretty cool and interesting(the jumbotron feature).
