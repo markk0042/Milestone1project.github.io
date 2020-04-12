@@ -9,7 +9,7 @@ In my current project I picked to do it on, is about a gym because in 2020 alot 
 When the site is viewed on a mobile version I have made some of the content be hidden due to too much content being shown and it looks too squashed so I hid some less important parts, when viewed on a mobile the navbar condenses and becomes a burger feature/ drop down menu which has the sections still present, just not clustered all over the screen...
 
 
-UX
+UX:
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things:
 
 This site is aimed at all individuals, young or old, its a site advertising a gym and its features and offers a free extended period if you join, it has images of a pool, fitness classes and the gym, it has the option of taking Personal Trainer classes, swimming lessons, and also in the navbar has the option of booking a fitness class from the list given in the classes section. The extended period of time is added to entise people to buy the membership and the classes shown are to work together in groups having fun while getting fit, also if your new it has the option to book in with a personal trainers to show you and send you on the right path to get a fitter lifestyle.
@@ -19,23 +19,25 @@ In particular, as part of this section we recommend that you provide a list of U
 As a user type, I want to perform an action, so that I can achieve a goal.
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
-Features
+Features:
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
 Another feature idea
-Technologies Used
+
+Technologies Used:
+
+I used HTML, CSS and Bootsrap 4 for my project.
+I added in the Jquery and Javascript links at the base of my HTML document to make my drop down menu active when mobile version is iniatiated.
+
+I used HTML for word typing and editting, adding features like rows, tables, images etc.
+CSS for atyling the features in the html document and also styleing the entire document.
+I used bootstrap4 for additional help and structured layouts for regions of my developing site and speed up the building proccess, I also used bootstrap for making buttons and navbar features.
+
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
 Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -54,17 +56,9 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+Deployment:
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-
+Each time I reached a point during my website editing and ceation I pushed my project to github using the terminal commands and once I did that I rechecked the site github to verify that the update and projected was pushed succesfully with peace of mind.
 
 Credits:
 
@@ -103,10 +97,8 @@ https://getbootstrap.com/docs/4.0/components/navbar/
 Acknowledgements:
 
 I received inspiration for this project from many different people, sources etc. 
-which are:
-
-
-Youtube tutorial how to videos for assitance:
+which are,
+Youtube tutorial how to videos for assistance:
 
 (https://youtu.be/qIPdaBIQXtg)
 (https://youtu.be/uw6ICPFVJzs\)
