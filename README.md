@@ -10,22 +10,21 @@ When the site is viewed on a mobile version I have made some of the content be h
 
 
 UX:
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things:
-
 This site is aimed at all individuals, young or old, its a site advertising a gym and its features and offers a free extended period if you join, it has images of a pool, fitness classes and the gym, it has the option of taking Personal Trainer classes, swimming lessons, and also in the navbar has the option of booking a fitness class from the list given in the classes section. The extended period of time is added to entise people to buy the membership and the classes shown are to work together in groups having fun while getting fit, also if your new it has the option to book in with a personal trainers to show you and send you on the right path to get a fitter lifestyle.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 Features:
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+In my nabar we have different sections a new customer or current can enter to view the gyms services and images.
+In the jumbotron we have a slogan then a T&C for age and also a promotion standing out for viewers.
+Then I added a modal sign up button for new customers to sign up and create a username etc.
+I added a backround Image of a gym area and also made the opacity of my jumbotron 0.7 so the background could still be seen throught the jumbotron while scrolling.
+then I added images to each info card showing features and explaining the features in the gym with buttons to enquire and timetables for the classes etc.
+then in the footer we have accesible links to contact us, sign up to be a PT, contact us etc, with addreses and details etc.
 
-Features Left to Implement
-Another feature idea
+Features Left to Implement:
+
+I would add a video section of a tour of the gym, show casing all of the facilities better, showing the staff, and maybe some customer reviews on the classes and how they find the gym etc, also i would add a blog section for customers and new to join customers to pass information, ask questions, and see live updates of the gym regarding new equipment, facilities to come, temporary closing times and more.
 
 Technologies Used:
 
@@ -34,27 +33,15 @@ I added in the Jquery and Javascript links at the base of my HTML document to ma
 
 I used HTML for word typing and editting, adding features like rows, tables, images etc.
 CSS for atyling the features in the html document and also styleing the entire document.
-I used bootstrap4 for additional help and structured layouts for regions of my developing site and speed up the building proccess, I also used bootstrap for making buttons and navbar features.
+I used bootstrap4 for additional help and structured layouts for regions of my developing site and speed up the building proccess, better and well formulated structures, also I used bootstrap for making buttons and navbar features.
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
+Different Browsers and screen sizes:
+
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Deployment:
 
@@ -74,8 +61,8 @@ Media:
 The photos used in this site were obtained from 
 https://www.pexels.com/collections/crossfit-gym-exercise-workout-training-rhf4lf3/
 
-the footer layout/ structure I used was from:
-
+the footer/Modal layout/ structure I used was from:
+https://getbootstrap.com/docs/4.4/components/modal/
 (https://mdbootstrap.com/products/jquery-ui-kit/
 https://getbootstrap.com/docs/4.4/components/card/#header-and-footer)
 
@@ -108,7 +95,7 @@ Youtube tutorial how to videos for assistance:
 I used inspiration from previous projects I completed in code Insititute as my journey into the full Stack Developer Role
 for example which i thought was pretty cool and interesting(the jumbotron feature).
 
-I also used slack groups for guidance and assitance from the well educated mentors,
+I also used slack groups for guidance and assitance from the well educated mentors assigned,
 
 I also used :
 
