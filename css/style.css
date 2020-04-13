@@ -14,10 +14,6 @@ body{
     background-size: cover;
 }
    
-
-/*---------NAVSTYLING------*/
-
-
 /*-----CALLOUT REGION---*/
 
 
@@ -25,6 +21,7 @@ body{
 
 background: #444;
 margin-bottom: 310px;
+opacity: 0.9;
 }
 
 .jumbotron h1 {
@@ -53,6 +50,13 @@ margin-bottom: 310px;
     background-color: #ee3211;
     }
 
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus {
+    background-color: #f70808;
+    border-color: #df4929;
+    color: #fff;
+}
 
     /*-----GYM facilities section---*/
  
@@ -64,6 +68,24 @@ margin-bottom: 310px;
 }
 
 
+.bottom{
+
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 5px;
+}
+
+.text-card {
+
+    font-family: "Roboto",sans-serif;
+
+}
+
+
+/*----FOOTER---*/
 
 .follow-us{
     color: #fff;
@@ -174,7 +196,7 @@ footer{
 
 .details{
 
-     color: #fff;
+    color: #fff;
     font-size: 15x;
     font-family: sans-serif;
 }
