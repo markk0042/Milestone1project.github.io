@@ -16,7 +16,10 @@ body{
    
 /*-----CALLOUT REGION---*/
 
+.navbar-text{
 
+    color: rgb(165, 161, 161)
+}
 .jumbotron{
 
 background: #444;
@@ -52,10 +55,12 @@ opacity: 0.9;
 
 .btn--red:hover,
 .btn--red:active,
-.btn--red:focus {
-    background-color: #f70808;
-    border-color: #df4929;
+.btn--red:focus,
+.btn--red:active:focus {
+    background-color: #ee3211;
+    border-color: #fff;
     color: #fff;
+    
 }
 
     /*-----GYM facilities section---*/
