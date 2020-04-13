@@ -26,6 +26,8 @@ Features Left to Implement:
 
 I would add a video section of a tour of the gym, show casing all of the facilities better, showing the staff, and maybe some customer reviews on the classes and how they find the gym etc, also i would add a blog section for customers and new to join customers to pass information, ask questions, and see live updates of the gym regarding new equipment, facilities to come, temporary closing times and more.
 
+13/04/2020: I added a sign in button to the nav using the btn btn-danger feature from bootstrap4 for members to sign in and when it minimises on mobile devices the sign in button disapears but on the footer members can access the account via the members account link so there is still access for mobile users.
+
 Technologies Used:
 
 I used HTML, CSS and Bootsrap 4 for my project.
