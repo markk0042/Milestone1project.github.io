@@ -95,6 +95,7 @@ opacity: 0.9;
 .follow-us{
     color: #fff;
     font-size: 20x;
+    margin-bottom: 10px;
 }
 
 
@@ -105,11 +106,13 @@ opacity: 0.9;
 .facebook-ic{
     color:#0b68e2;
     font-size: 25px;
+    margin-bottom: 20px;
 }
 
 .tw-ic {
 font-size: 25px;
 color:#0bc2e2;
+margin-top: 10px;
 }
 
 .li-ic {
@@ -127,7 +130,7 @@ color:#e26c0b;
 .facebook-ic:hover {
 transition: 1.5s;
 color: #ee3211;
-margin-bottom: 15px;
+
 
 }
 
