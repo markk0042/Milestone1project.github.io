@@ -102,7 +102,7 @@ opacity: 0.9;
     background-color: #444;
 }
 
-.fb-ic{
+.facebook-ic{
     color:#0b68e2;
     font-size: 25px;
 }
@@ -124,10 +124,10 @@ color:#e26c0b;
     
 }
 
-.fb-ic:hover {
+.facebook-ic:hover {
 transition: 1.5s;
 color: #ee3211;
-
+margin-bottom: 15px;
 
 }
 
