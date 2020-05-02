@@ -38,7 +38,7 @@
   </div>
    <div class="d-none d-md-block">
             <p class="navbar-text my-auto mr-2" ><i>Sign in and manage your account here!</i></p>
-            <a href="/login" class="btn btn-danger"><strong> Members Sign In</strong></a>
+            <a href="/login" class="btn btn-danger" data-toggle="modal" data-target="#signInModal"><strong> Members Sign In</strong></a>
         </div>
 </nav>
 
@@ -53,7 +53,7 @@
                     <p class ="lead">Join up today for a healthy mind in a healthy body.
                         <span class="d-inline d-sm-none"><br></span>
                         <strong><mark>Buy 3 months get a 4th free!</mark></strong></p>
-                    <p class="text-danger"><small><strong><em> must be over 16 to Join Fitness4U, or acompanied by an adult.</em></strong></small></p>
+                    <p class="jumbotron-terms"><small><strong><em> must be over 16 to Join Fitness4U, or acompanied by an adult.</em></strong></small></p>
                     <p><button class="btn btn-danger" data-toggle="modal" data-target="#signUpModal">Sign Up!</button></p>
                 </section>
 
@@ -100,8 +100,8 @@
         </div>
 
 
-        <div class="card-text text-card">The basic workout tools in this area include dumbbells, barbells, benches, power racks and press stations and many more. <!---When you join a FITNESS4U club, 
-        we’ll include the amount of sets and reps you need to perform in your personalised plan--> </div>
+        <div class="card-text text-card">The basic workout tools in this area include dumbbells, barbells, benches, power racks and press stations and many more.
+        </div>
         <a style="margin-top: 10px; margin-bottom: 10px;" href="#" class="btn btn-danger">Timetable</a>
         </div>
         </div>
@@ -210,49 +210,24 @@
 
       </div>
      
-      <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-
+     <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
       </div>
-      <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-
-        
-          <h6 class="mb-0 follow-us">Follow us on social networks!</h6><br>
-        
-
-           <a href="https://www.facebook.com/" target="_blank" class="facebook-ic">
-            <i class="fab fa-facebook white-text mr-4"> </i>
-          </a><br>
-        
-          <a href="https://twitter.com/explore" target="_blank" class="tw-ic">
-            <i class="fab fa-twitter white-text mr-4"> </i>
-          </a><br>
-          
-          <a href="https://www.linkedin.com/" target="_blank" class="li-ic">
-            <i class="fab fa-linkedin-in white-text mr-4"> </i>
-          </a><br>
-          
-          <a href="https://www.instagram.com/" target="_blank" class="ins-ic">
-            <i class="fab fa-instagram white-text"> </i>
-          </a><br>
-
-      </div>
-      
-      
+     
       <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
 
         <h6 class="text-uppercase font-weight-bold footer-link">Useful links</h6>
         <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
         <p>
-          <a href="#!">Membership Account</a>
+          <a class="membership-account-link" href="#!">Membership Account</a>
         </p>
         <p>
-          <a href="#!">Become a PT</a>
+          <a class="Become-a-PT-link" href="#!">Become a PT</a>
         </p>
         <p>
-          <a href="#!">Gym Locations</a>
+          <a class="Gym-Locations-link" href="#!">Gym Locations</a>
         </p>
         <p>
-          <a href="#!">Contat Us</a>
+          <a class="Contact-Us-link" href="#!">Contact Us</a>
         </p>
 
       </div>
@@ -308,6 +283,31 @@
                         <div class="form-group">
                             <label for="repeatPassword">Repeat Password</label>
                             <input type="password" class="form-control" id="repeatPassword" placeholder="Repeat Password">
+                        </div>
+                        <button type="submit" class="btn btn-success">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="modal" tabindex="-1" role="dialog" id="signInModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Welcome Back to FITNESS4U!</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="username">Username</label>
+                            <input type="username"  class="form-control" id="username" placeholder=" Enter Username">
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <input type="password" class="form-control" id="password" placeholder="Password">
                         </div>
                         <button type="submit" class="btn btn-success">Submit</button>
                     </form>

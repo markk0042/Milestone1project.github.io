@@ -12,6 +12,7 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    
 }
    
 /*-----CALLOUT REGION---*/
@@ -41,8 +42,14 @@ opacity: 0.9;
 
 }
 
+.jumbotron-terms{
+
+    color: #fff;
+    font-size: 20px;
+}
+
 .block-divider--GREY{
-       color: #ee3211;
+       color: #fff;
 
 
 }
@@ -50,7 +57,7 @@ opacity: 0.9;
     width: 75px;
     height: 5px;
     border: 0;
-    background-color: #ee3211;
+    background-color: #fff;
     }
 
 .btn--red:hover,
@@ -207,4 +214,21 @@ footer{
     color: #fff;
     font-size: 15x;
     font-family: sans-serif;
+}
+.membership-account-link{
+    color: #fff;
+}
+
+.Become-a-PT-link{
+    color: #fff;
+}
+
+.Gym-Locations-link{
+
+    color: #fff;
+}
+
+.Contact-Us-link{
+
+        color: #fff;
 }
