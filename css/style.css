@@ -28,6 +28,7 @@ margin-bottom: 310px;
 opacity: 0.9;
 }
 
+
 .jumbotron h1 {
     color: rgb(241, 238, 238);
     font-weight: bold;
@@ -75,7 +76,7 @@ opacity: 0.9;
 
 .page-header {
     text-align: center;
-    color: #ee3211;
+    color: #d9534f;
     font-family: 'Permanent Marker', cursive, sans-serif;
 }
 
@@ -194,23 +195,22 @@ footer{
 
 }
 
+.FITNESS4U-link-footer{
+
+    color: #fff;
+}
 
 .about-us {
-   
     font-size: 15x;
-
-
 }
 
 .about-us-text{
-
     color: #fff;
     font-size: 15x;
     font-family: sans-serif;
 }
 
 .details{
-
     color: #fff;
     font-size: 15x;
     font-family: sans-serif;
@@ -224,11 +224,44 @@ footer{
 }
 
 .Gym-Locations-link{
-
     color: #fff;
 }
 
 .Contact-Us-link{
+    color: #fff;
+}
 
-        color: #fff;
+.copyright-logo-footer{
+    color: #fff;
+}
+
+.membership-account-link:hover {
+    transition: 0.7s;
+    color: #ee3211;
+}
+
+.Become-a-PT-link:hover {
+    transition: 0.7s;
+    color: #ee3211;
+}
+
+.Gym-Locations-link:hover {
+    transition: 0.7s;
+    color: #ee3211;
+}
+
+.Contact-Us-link:hover {
+    transition: 0.7s;
+    color: #ee3211;
+}
+
+.FITNESS4U-link-footer:hover {
+    transition: 0.7s;
+    color: #ee3211;
+}
+
+.copyright-logo-footer:hover {
+    transition:0.7s;
+    color: #ee3211;
+
 }
