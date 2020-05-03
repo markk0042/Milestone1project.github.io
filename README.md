@@ -12,6 +12,7 @@ When the site is viewed on a mobile version I have made some of the content be h
 
 
 **UX:**
+
 This site is aimed at all individuals, young or old, its a site advertising a gym and its features and offers a free extended period if you join, it has images of a pool, fitness classes and the gym, it has the option of taking Personal Trainer classes, swimming lessons, and also in the navbar has the option of booking a fitness class from the list given in the classes section. The extended period of time is added to entise people to buy the membership and the classes shown are to work together in groups having fun while getting fit, also if your new it has the option to book in with a personal trainers to show you and send you on the right path to get a fitter lifestyle.
 
 **Features:**
@@ -52,9 +53,9 @@ I also took the idea of reducing the information on smaller devices by using the
 
 Each time I reached a point during my website editing and ceation I pushed my project to github using the terminal commands and once I did that I rechecked the site github to verify that the update and projected was pushed succesfully with peace of mind. When deplying my website on Github Pages I came into a couple of problems where it wouldnt work for me because i didnt name my project with a .github.io at the ending of my repository so needed assistance resolving this from the slack community, also i had to watch some youtube videos and google theories on using github pages for assistance to fully understand how to use it better which it helped alot.
 
-Credits:
+**Credits:**
 
-Content:
+**Content:**
 
 The text mentioned in the gyms card features about the gyms exercise areas and features etc was quoted from,
 (https://www.holmesplace.com/en/en/blog/fitness/what-areas-are-available-in-a-gym)
@@ -66,13 +67,14 @@ The photos used in this site were obtained from open source free to use photos o
 https://www.pexels.com/collections/crossfit-gym-exercise-workout-training-rhf4lf3/
 
 **the footer/Modal layout/ structure I used was from:**
-https://getbootstrap.com/docs/4.4/components/modal/
-(https://mdbootstrap.com/products/jquery-ui-kit/
-https://getbootstrap.com/docs/4.4/components/card/#header-and-footer)
+
+(https://getbootstrap.com/docs/4.4/components/modal/)
+(https://mdbootstrap.com/products/jquery-ui-kit/)
+(https://getbootstrap.com/docs/4.4/components/card/#header-and-footer)
 
 **The icons I used were from:**
 
-https://fontawesome.com/
+(https://fontawesome.com/)
 
 **The fonts I used were from:**
 
@@ -83,7 +85,7 @@ https://fonts.google.com/
 
 
 **The navbar structure:**
-https://getbootstrap.com/docs/4.0/components/navbar/
+(https://getbootstrap.com/docs/4.0/components/navbar/)
 
 
 **Acknowledgements:**
@@ -105,6 +107,6 @@ I also used slack groups for guidance and assitance from the well educated mento
 
 **I also used :**
 
-(https://stackoverflow.com/questions/3898781/how-can-i-change-a-buttons-color-on-hover
-https://stackoverflow.com/questions/46026899/bootstrap-4-dropdown-menu-not-working
+(https://stackoverflow.com/questions/3898781/how-can-i-change-a-buttons-color-on-hover)
+ (https://stackoverflow.com/questions/46026899/bootstrap-4-dropdown-menu-not-working)
 
