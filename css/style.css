@@ -100,7 +100,7 @@ opacity: 0.9;
 
 /*----FOOTER---*/
 
-.follow-us{
+.social-net-heading {
     color: #fff;
     font-size: 20x;
     margin-bottom: 10px;
@@ -112,51 +112,50 @@ opacity: 0.9;
 }
 
 .facebook-ic{
-    color:#0b68e2;
+    color:#fff;
     font-size: 25px;
-    margin-bottom: 20px;
 }
 
 .tw-ic {
 font-size: 25px;
-color:#0bc2e2;
-margin-top: 10px;
+color:#fff;
+
 }
 
 .li-ic {
 font-size: 25px;
-color:#0be27e;
+color:#fff;
 
 }
 
 .ins-ic{
 font-size: 25px;
-color:#e26c0b;
+color:#fff;
     
 }
 
 .facebook-ic:hover {
-transition: 1.5s;
+transition: 0,7s;
 color: #ee3211;
 
 
 }
 
 .tw-ic:hover {
-transition: 1.5s;
+transition: 0,7s;
 color: #ee3211;
 
 }
 
 .li-ic:hover {
-transition: 1.5s;
+transition: 0,7s;
 color: #ee3211;
 
 }
 
 
 .ins-ic:hover {
-transition: 1.5s;
+transition: 0,7s;
 color: #ee3211;
 
 }
@@ -195,13 +194,13 @@ footer{
 
 }
 
-.FITNESS4U-link-footer{
-
+.heading-link-footer{
     color: #fff;
 }
 
 .about-us {
     font-size: 15x;
+    color: #fff;
 }
 
 .about-us-text{
@@ -236,32 +235,28 @@ footer{
 }
 
 .membership-account-link:hover {
-    transition: 0.7s;
+    transition: 0.5s;
     color: #ee3211;
 }
 
 .Become-a-PT-link:hover {
-    transition: 0.7s;
+    transition: 0.5s;
     color: #ee3211;
 }
 
 .Gym-Locations-link:hover {
-    transition: 0.7s;
+    transition: 0.5s;
     color: #ee3211;
 }
 
 .Contact-Us-link:hover {
-    transition: 0.7s;
+    transition: 0.5s;
     color: #ee3211;
 }
 
-.FITNESS4U-link-footer:hover {
-    transition: 0.7s;
-    color: #ee3211;
-}
 
 .copyright-logo-footer:hover {
-    transition:0.7s;
+    transition:0.5s;
     color: #ee3211;
 
 }
