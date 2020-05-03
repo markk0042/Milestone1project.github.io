@@ -1,4 +1,4 @@
-OVERVIEW:
+**OVERVIEW:**
 
 HI reader,
 
@@ -11,10 +11,10 @@ In my current project I picked to do it on, is about a gym because in 2020 alot 
 When the site is viewed on a mobile version I have made some of the content be hidden due to too much content being shown and it looks too squashed so I hid some less important parts, when viewed on a mobile the navbar condenses and becomes a burger feature/ drop down menu which has the sections still present, just not clustered all over the screen...
 
 
-UX:
+**UX:**
 This site is aimed at all individuals, young or old, its a site advertising a gym and its features and offers a free extended period if you join, it has images of a pool, fitness classes and the gym, it has the option of taking Personal Trainer classes, swimming lessons, and also in the navbar has the option of booking a fitness class from the list given in the classes section. The extended period of time is added to entise people to buy the membership and the classes shown are to work together in groups having fun while getting fit, also if your new it has the option to book in with a personal trainers to show you and send you on the right path to get a fitter lifestyle.
 
-Features:
+**Features:**
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 In my nabar we have different sections a new customer or current can enter to view the gyms services and images.
