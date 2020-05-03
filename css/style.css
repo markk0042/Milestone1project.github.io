@@ -1,9 +1,6 @@
 
-/*images-----*/
-body{
-
-
-
+/*background-image-----*/
+body {
     background: url("../css/assets/gym/gym.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -17,12 +14,11 @@ body{
    
 /*-----CALLOUT REGION---*/
 
-.navbar-text{
-
+.navbar-text {
     color: rgb(165, 161, 161)
 }
-.jumbotron{
 
+.jumbotron {
 background: #444;
 margin-bottom: 310px;
 opacity: 0.9;
@@ -40,21 +36,18 @@ opacity: 0.9;
 .jumbotron .lead {
     color: #a7a7a7;
     margin: 25px 0;
-
 }
 
-.jumbotron-terms{
-
+.jumbotron-terms {
     color: #fff;
     font-size: 20px;
 }
 
-.block-divider--GREY{
+.block-divider--GREY {
        color: #fff;
-
-
 }
-    .block-divider {
+
+.block-divider {
     width: 75px;
     height: 5px;
     border: 0;
@@ -68,7 +61,6 @@ opacity: 0.9;
     background-color: #ee3211;
     border-color: #fff;
     color: #fff;
-    
 }
 
     /*-----GYM facilities section---*/
@@ -81,8 +73,7 @@ opacity: 0.9;
 }
 
 
-.bottom{
-
+.bottom {
     position: relative;
     width: 100%;
     min-height: 1px;
@@ -92,9 +83,7 @@ opacity: 0.9;
 }
 
 .text-card {
-
     font-family: "Roboto",sans-serif;
-
 }
 
 
@@ -111,58 +100,47 @@ opacity: 0.9;
     background-color: #444;
 }
 
-.facebook-ic{
+.facebook-icon {
     color:#fff;
     font-size: 25px;
 }
 
-.tw-ic {
-font-size: 25px;
-color:#fff;
-
+.twitter-icon {
+    font-size: 25px;
+    color:#fff;
 }
 
-.li-ic {
-font-size: 25px;
-color:#fff;
-
+.linkedin-icon {
+    font-size: 25px;
+    color:#fff;
 }
 
-.ins-ic{
-font-size: 25px;
-color:#fff;
-    
+.instagram-icon {
+    font-size: 25px;
+    color:#fff;
 }
 
-.facebook-ic:hover {
-transition: 0,7s;
-color: #ee3211;
-
-
+.facebook-icon:hover {
+    transition: 0,7s;
+    color: #ee3211;
 }
 
-.tw-ic:hover {
-transition: 0,7s;
-color: #ee3211;
-
+.twitter-icon:hover {
+    transition: 0,7s;
+    color: #ee3211;
 }
 
-.li-ic:hover {
-transition: 0,7s;
-color: #ee3211;
-
+.linkedin-icon:hover {
+    transition: 0,7s;
+    color: #ee3211;
 }
 
-
-.ins-ic:hover {
-transition: 0,7s;
-color: #ee3211;
-
+.instagram-icon:hover {
+    transition: 0,7s;
+    color: #ee3211;
 }
 
-
-footer{
-
+footer {
     margin-top: 10px;
 }
 
@@ -171,27 +149,20 @@ footer{
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
-
 }
 
 #photo img {
     width: 100%;
-
 }
 
-
 .footer-link{
-
     color: #fff;
     font-size: 15x;
 }
 
 .footer-contact{
-
     color: #fff;
     font-size: 15x;
-
-
 }
 
 .heading-link-footer{
@@ -214,6 +185,7 @@ footer{
     font-size: 15x;
     font-family: sans-serif;
 }
+
 .membership-account-link{
     color: #fff;
 }
@@ -253,7 +225,6 @@ footer{
     transition: 0.5s;
     color: #ee3211;
 }
-
 
 .copyright-logo-footer:hover {
     transition:0.5s;
