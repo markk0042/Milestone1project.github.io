@@ -74,16 +74,17 @@ facilities to come, temporary closing times and more.
 I made some changes to my website after I had some viewers look at it and had oppionions and how they think it looks, some said the colors
 I used were bright, alot of mixed colors which were distracting to the eye, so I dampened down the colors to more easy on the eye colors arounf the document.
 I removed the classes drop down tab on my navbar from advice from my mentor, because he thought I had too much present on the navbar. I changed the colors of the block dividers and 
-the facilities heading above my cards section to the same hexidecimal color as the danger btn color from b ootstrap4 to match the red on the buttons arounf the site.
+the facilities heading above my cards section to the same hexidecimal color as the danger btn color from bootstrap4 to match the red on the buttons arounf the site.
 
 ### **Technologies Used:**
 
 
-I used HTML, CSS, Bootsrap 4, and Github for my project. I added in the Jquery and Javascript links at the base of my HTML document to make my drop down menu active when mobile version is iniatiated.
+I used HTML, CSS, Bootsrap 4, and Github for my project. I added in the Jquery and Javascript links at the base of my HTML document to make my drop down menu active and 
+make the website responsive when mobile version is iniatiated.
 
-I used HTML for word typing and editting, adding features like rows, tables, images etc. CSS for atyling the features in the html document and also styleing the entire document. 
-I used bootstrap4 for additional help and structured layouts for regions of my developing site and speed up the building proccess, better and well formulated structures,
- also I used bootstrap for making buttons and navbar features.
+I used HTML for word typing and editting, adding features like rows, tables, images etc. CSS for styling the features in the html document and also styling the entire document. 
+I used bootstrap4 for additional help and structured layouts for regions of my developing site and to speed up the building proccess, be better and have well formulated structures,
+also I used bootstrap for making buttons and navbar features.
 
 ### **Different Browsers and screen sizes:**
 
@@ -91,8 +92,8 @@ In the webpage view this site looks really well, its responsive to the level I w
 the images and text on my card features down the page look good the images are a nice size, not too big not too small, the text fits perfect, all boxes are equal in size, the footer is well positioned and styled with nice color and icons with active links to social networks.
 
 On the mobile version The site is similar to the desktop version. EXCEPT I made sure to have a collapsable menu to make it tidier on smaller screens I also took the idea of reducing the information on smaller devices by using the display-block feature for the entire row of the personal trainer collumn and also the small images in each row,
-so it makes it more mobile friendly, looks nicer on the eyes, and it spaced better. Due to the nav-bar sign in feature for existing members being removed for mobile friendly devices,
-I added a membership account link doen below in the footer for access for mobile users to still have the ability to sign in on both forms of devices.
+so it makes it more mobile friendly, looks nicer on the eyes, and its spaced better. Due to the nav-bar sign in feature for existing members being removed for mobile friendly devices,
+I added a membership account link down below in the footer for access for mobile users so they would have the ability to sign in on both forms of devices. (footer links not active as of yet)
 
 ### **Deployment:**
 
