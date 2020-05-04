@@ -117,6 +117,11 @@ When deplying my website on Github Pages I came into a couple of problems where 
 also i had to watch some youtube videos and google theories on using github pages for assistance to fully understand how to use it better which it helped alot. I also had a issue when my gitpod master branch had seperated and wouldnt push to github until it was resolved,
 this caused a delay in deploying the website until the branch was brought back to the master branch.
 
+This site is hosted by using GitHub pages, it is deployed directly from the master branch. The idea of this is that the deployed site will update automatically when there are new commits to the master branch.
+for the site to be deployed correctly on GitHub pages,
+the landing page must be named index.html. if not this will not work,
+to run locally on your computer, you can clone this repository directly into the editor of your computer (e.g gitpod) by copying and pasting the link into your terminal. If anyone wanted to cut ties with this GitHub repository and remove the master branch, just type (git remote rm origin) into the terminal.
+
 ### **Credits for all content and Technologies used:**
 
 ### **Content:**
