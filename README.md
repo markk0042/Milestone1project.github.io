@@ -7,6 +7,7 @@ Welcome to my milestone-one project for code Institutes 1 of 4 projects for my j
 
 ### **DEMO:**
 My Github pages link to a live version of my project is here:  (https://markk0042.github.io/Milestone1project.github.io/).
+My wireframe mockup is attached to my repository on github for viewing.
 
 ### **Introduction:**
 
@@ -33,12 +34,12 @@ also if your new it has the option to book in with a personal trainers to show y
 By asking friends, family members and also members of the current community gym what they would like to see on the website when it is deployed,
 and most answers to this questions were:
 
-As a user of the gyms website, I want to see if this gym fits my goals. (**Facilities Section on base of home page**)
- - As a user of the gyms website, I want to know how much it will cost for a 3 month plan to test it out. ( **price deal on jumbotron page**)
- - As a user of the gyms website, I want to know my Personal Training options. (**Facilities Section on base of home page**)
- - As a user of the gyms website, I want to know how I can contact this company for further details. ( **Contact page on base of footer**)
- - As a user of the gyms website, I want to find quick access on the go preferable by my phone. ( **Responsive designed**)
-
+ - As a user of the gyms website, I want to see if this gym fits my goals. (**Facilities Section on base of home page**)
+ - As a user of the gyms website, I want to know how much it will cost for a 3 month plan to test it out. (**price deal on jumbotron page**)
+ - As a user of the gyms website, I want to know if there are Personal Training options. (**Facilities Section on base of home page**)
+ - As a user of the gyms website, I want to know how I can contact this company for further details. (**Contact page on base of footer**)
+ - As a user of the gyms website, I want to find quick access on the go preferable by my phone. (**Responsive designed**)
+ - As a user of the gyms website, I would like to see a gallery of the gym and members and classes, showing what they would look like.(**Gallery Section**)
 ### **Features:**
 
 In this section, I will go over different parts of my project in a short brief statement.
