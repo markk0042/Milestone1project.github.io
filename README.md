@@ -3,6 +3,15 @@
 HI reader,
 
 Welcome to my milestone-one project for code Institutes 1 of 4 projects for my journey to become a full stack developer.
+<<<<<<< HEAD
+=======
+My Github pages link to a live version of my project is here:
+
+**Demo:**
+
+
+https://markk0042.github.io/Milestone1project.github.io/.
+>>>>>>> 5aebef340222f56616e9605ad3be3a1cedc3c6f2
 
 ###**Demo:**
 
