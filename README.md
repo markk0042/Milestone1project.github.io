@@ -18,10 +18,10 @@ In my current project I picked to do it on, is about a gym because in 2020 alot 
 - A way to meet up with friends
 - To improve how they look and for improving mental health etc.
 
-and it shows the gyms home page designed into sections where at the top of the page where the gyms logo is and also the nav bar feature,
+And it shows the gyms home page designed into sections where at the top of the page where the gyms logo is and also the nav bar feature,
 where the gallery has images of the gym and its members working out (taken from free open source images)(https://www.pexels.com/collections/crossfit-gym-exercise-workout-training-rhf4lf3/) head of my gym introduction page we have a jumbotron showing the company slogan, 
 a highlighted element where if you purchase a membership you get in return a free extension onto your membership, then down below we have features about the gym for example different types or areas of exercise that one person can do at this facility, with a option to view the time tables or book in with a Personal Trainer,
-then below that we have a footer section, used footer layout from (https://mdbootstrap.com/products/jquery-ui-kit/) styled it with my own colors and fonts, but and added links to the titles. with a quote on the left about the company, 
+then below that we have a footer section, I used footer layout from (https://mdbootstrap.com/products/jquery-ui-kit/) styled it with my own colors and fonts, but I added links to the titles, with a quote on the left about the company, 
 in the center of the footer we have links to different areas of the site that would be available to an existing member or to a new upoming member, then to the right of the footer we have the contact deatils like address, email, contact information etc with a copyright logo at the bottom of the footer.
 
 When the site is viewed on a mobile version I have made some of the content be hidden due to too much content being shown and it looks too squashed so I hid some less important parts, when viewed on a mobile the navbar condenses and becomes a burger feature/ drop down menu which has the sections still present,
@@ -67,6 +67,14 @@ the sign in button disapears but on the footer members can access the account vi
 I would add a video section of a tour of the gym, show casing all of the facilities better, showing the staff, 
 and maybe some customer reviews on the classes and how they find the gym etc, also i would add a blog section for customers and new to join customers to pass information, ask questions, and see live updates of the gym regarding new equipment, 
 facilities to come, temporary closing times and more.
+
+
+### **Changes I Made:**
+
+I made some changes to my website after I had some viewers look at it and had oppionions and how they think it looks, some said the colors
+I used were bright, alot of mixed colors which were distracting to the eye, so I dampened down the colors to more easy on the eye colors arounf the document.
+I removed the classes drop down tab on my navbar from advice from my mentor, because he thought I had too much present on the navbar. I changed the colors of the block dividers and 
+the facilities heading above my cards section to the same hexidecimal color as the danger btn color from b ootstrap4 to match the red on the buttons arounf the site.
 
 ### **Technologies Used:**
 
