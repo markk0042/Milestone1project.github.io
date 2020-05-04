@@ -22,7 +22,22 @@ just not clustered all over the screen.
 
 ### **UX:** 
 
-This site is aimed at all individuals, young or old, its a site advertising a gym and its features and offers a free extended period if you join, it has images of a pool, fitness classes and the gym, it has the option of taking Personal Trainer classes, swimming lessons, and also in the navbar has the option of booking a fitness class from the list given in the classes section. The extended period of time is added to entise people to buy the membership and the classes shown are to work together in groups having fun while getting fit, also if your new it has the option to book in with a personal trainers to show you and send you on the right path to get a fitter lifestyle.
+This site is aimed at all individuals, young or old, its a site advertising a gym and its features and offers a free extended period if you join, it has images of a pool, 
+fitness classes and the gym, it has the option of taking Personal Trainer classes, 
+swimming lessons, and also in the navbar has the option of booking a fitness class from the list given in the classes section. 
+The extended period of time is added to entise people to buy the membership and the classes shown are to work together in groups having fun while getting fit, 
+also if your new it has the option to book in with a personal trainers to show you and send you on the right path to get a fitter lifestyle.
+
+### **User Stories:**
+
+By asking friends, family members and also members of the current community gym what they would like to see on the website when it is deployed,
+and most answers to this questions were:
+
+As a user of the gyms website, I want to see if this gym fits my goals. (**Facilities Section on base of home page**)
+ - As a user of the gyms website, I want to know how much it will cost for a 3 month plan to test it out. ( **price deal on jumbotron page**)
+ - As a user of the gyms website, I want to know my Personal Training options. (**Facilities Section on base of home page**)
+ - As a user of the gyms website, I want to know how I can contact this company for further details. ( **Contact page on base of footer**)
+ - As a user of the gyms website, I want to find quick access on the go preferable by my phone. ( **Responsive designed**)
 
 ### **Features:**
 
@@ -68,9 +83,10 @@ I added a membership account link doen below in the footer for access for mobile
 
 Each time I reached a point during my website editing and ceation I pushed my project to github using the terminal commands and once I did that I rechecked the site github to verify that the update and projected was pushed succesfully with peace of mind.
 When deplying my website on Github Pages I came into a couple of problems where it wouldnt work for me because i didnt name my project with a .github.io at the ending of my repository so needed assistance resolving this from the slack community, 
-also i had to watch some youtube videos and google theories on using github pages for assistance to fully understand how to use it better which it helped alot.
+also i had to watch some youtube videos and google theories on using github pages for assistance to fully understand how to use it better which it helped alot. I also had a issue when my gitpod master branch had seperated and wouldnt push to github until it was resolved,
+this caused a delay in deploying the website until the branch was brought back to the master branch.
 
-### **Credits:**
+### **Credits for all content and Technologies used:**
 
 ### **Content:**
 
