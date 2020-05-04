@@ -109,7 +109,7 @@ for example which i thought was pretty cool and interesting(the jumbotron featur
 
 I also used slack groups for guidance and assitance from the well educated mentors assigned,
 
-**I also used :**
+**I also used :** 
 
 (https://stackoverflow.com/questions/3898781/how-can-i-change-a-buttons-color-on-hover)
  (https://stackoverflow.com/questions/46026899/bootstrap-4-dropdown-menu-not-working)
