@@ -69,6 +69,15 @@ I would add a video section of a tour of the gym, show casing all of the facilit
 and maybe some customer reviews on the classes and how they find the gym etc, also i would add a blog section for customers and new to join customers to pass information, ask questions, and see live updates of the gym regarding new equipment, 
 facilities to come, temporary closing times and more.
 
+### **Testing:**
+
+All links in the navbar and the jumbotron will function, also the social networking icons on the footer will function except the useful links sections. The social media links will open on a new webpage using the _blank html attribute. The "sign up and sign in" button will open up the modals Ive created for them to function based on the users choice. 
+Custom CCS code is written for every modals result, but I used the same button style (btn btn-danger) so the colors dont go opposite ways in regards to comparisson.
+
+The site was tested across multiple different screen sizes on Google Chrome, Safari on Iphones and Mac computers that support IOS and Internet Explorer, to ensure compatibility and full responsiveness it was also tested on an android mobile device (Samsung Galaxy). 
+When the webpage is visited on larger screens the images return and as it goes smaller the images and some text becomes hidden from the eye.
+
+The text and card-decks showing the gyms facilities will properly align on every screen size. This is going to make it better readable for smaller screens.
 
 ### **Changes I Made:**
 
@@ -80,7 +89,12 @@ the facilities heading above my cards section to the same hexidecimal color as t
 ### **Technologies Used:**
 
 
-I used HTML, CSS, Bootsrap 4, and Github for my project. I added in the Jquery and Javascript links at the base of my HTML document to make my drop down menu active and 
+- I used HTML
+- I used CSS
+- I used Bootsrap 4 
+- I used Github and gitpod
+
+for my project. I added in the Jquery and Javascript links at the base of my HTML document to make my drop down menu active and 
 make the website responsive when mobile version is iniatiated.
 
 I used HTML for word typing and editting, adding features like rows, tables, images etc. CSS for styling the features in the html document and also styling the entire document. 
