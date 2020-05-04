@@ -7,12 +7,18 @@ Welcome to my milestone-one project for code Institutes 1 of 4 projects for my j
 
 ### **DEMO:**
 My Github pages link to a live version of my project is here:  (https://markk0042.github.io/Milestone1project.github.io/).
+
 My wireframe mockup is attached to my repository on github for viewing.
 
 ### **Introduction:**
 
-In my current project I picked to do it on, is about a gym because in 2020 alot of pwople have become close/ connected to fitness, by using it to get in better shape, a hobby, 
-a way to meet up with friends, to improve how they look and for improving mental health etc. and it shows the gyms home page designed into sections where at the top of the page where the gyms logo is and also the nav bar feature,
+In my current project I picked to do it on, is about a gym because in 2020 alot of people have become close/ connected to fitness, by using it to 
+- Get in a better shape
+- A hobby 
+- A way to meet up with friends
+- To improve how they look and for improving mental health etc.
+
+and it shows the gyms home page designed into sections where at the top of the page where the gyms logo is and also the nav bar feature,
 where the gallery has images of the gym and its members working out (taken from free open source images)(https://www.pexels.com/collections/crossfit-gym-exercise-workout-training-rhf4lf3/) head of my gym introduction page we have a jumbotron showing the company slogan, 
 a highlighted element where if you purchase a membership you get in return a free extension onto your membership, then down below we have features about the gym for example different types or areas of exercise that one person can do at this facility, with a option to view the time tables or book in with a Personal Trainer,
 then below that we have a footer section, used footer layout from (https://mdbootstrap.com/products/jquery-ui-kit/) styled it with my own colors and fonts, but and added links to the titles. with a quote on the left about the company, 
