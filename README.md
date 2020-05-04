@@ -76,34 +76,34 @@ also i had to watch some youtube videos and google theories on using github page
 
 The text mentioned in the gyms card features about the gyms exercise areas and features etc was quoted from, 
 
--(https://www.holmesplace.com/en/en/blog/fitness/what-areas-are-available-in-a-gym)
+- (https://www.holmesplace.com/en/en/blog/fitness/what-areas-are-available-in-a-gym)
 
 The text section from my footer was similar to what was given in my footer layout from 
 
--(https://mdbootstrap.com/products/jquery-ui-kit/....(I styled the footer quotes and text to reference my website and removed two rows so it is not packed too much and isnt squashed and is styled to the style which suits my site).
+- (https://mdbootstrap.com/products/jquery-ui-kit/....(I styled the footer quotes and text to reference my website and removed two rows so it is not packed too much and isnt squashed and is styled to the style which suits my site).
 
 The photos used in this site were obtained from open source free to use photos on: 
 
--(https://www.pexels.com/collections/crossfit-gym-exercise-workout-training-rhf4lf3/)
+- (https://www.pexels.com/collections/crossfit-gym-exercise-workout-training-rhf4lf3/)
 
 The footer/Modal layout/ structure I used was from: 
 
--(https://getbootstrap.com/docs/4.4/components/modal/ (https://mdbootstrap.com/products/jquery-ui-kit/ https://getbootstrap.com/docs/4.4/components/card/#header-and-footer)
+- (https://getbootstrap.com/docs/4.4/components/modal/ (https://mdbootstrap.com/products/jquery-ui-kit/ https://getbootstrap.com/docs/4.4/components/card/#header-and-footer)
 
 ### **The icons I used were from:**
 
--(https://fontawesome.com/)
+- (https://fontawesome.com/)
 
 ### **The fonts I used were from:**
 
--(https://fonts.google.com/)
--(link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet") 
--(link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet") 
--(link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet")
+- (https://fonts.google.com/)
+- (link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet") 
+- (link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet") 
+- (link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet")
 
 **The navbar structure:** 
 
--(https://getbootstrap.com/docs/4.0/components/navbar/)
+- (https://getbootstrap.com/docs/4.0/components/navbar/)
 
 ### **Acknowledgement of Technologies and content I used are:**
 
@@ -111,10 +111,10 @@ I received inspiration for this project from many different people, sources etc.
 
 ### **Youtube tutorial how to videos for assistance:**
 
--(https://youtu.be/qIPdaBIQXtg) 
--(https://youtu.be/uw6ICPFVJzs\) 
--(https://www.youtube.com/watch?v=5xzaGSYd7jM&t=1s) 
--(https://youtu.be/uN7NWfC86PM)
+- (https://youtu.be/qIPdaBIQXtg) 
+- (https://youtu.be/uw6ICPFVJzs\) 
+- (https://www.youtube.com/watch?v=5xzaGSYd7jM&t=1s) 
+- (https://youtu.be/uN7NWfC86PM)
 
 I used inspiration from previous projects I completed in code Insititute as my journey into the full Stack Developer Role for example which i thought was pretty cool and interesting (the jumbotron feature, 
 which i edited and used similar style except I used a different button style from bootstrap, different background color,
@@ -124,5 +124,5 @@ I also used slack groups for guidance and assitance from the well educated mento
 
 ### **I also used :**
 
-(https://stackoverflow.com/questions/3898781/how-can-i-change-a-buttons-color-on-hover 
-https://stackoverflow.com/questions/46026899/bootstrap-4-dropdown-menu-not-working
+- (https://stackoverflow.com/questions/3898781/how-can-i-change-a-buttons-color-on-hover)
+- (https://stackoverflow.com/questions/46026899/bootstrap-4-dropdown-menu-not-working)
