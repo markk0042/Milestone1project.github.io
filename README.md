@@ -7,8 +7,8 @@ Welcome to my milestone-one project for code Institutes 1 of 4 projects for my j
 
 ### **DEMO:**
 My wireframe mockup is attached to my repository on github for viewing.
-My Github pages link to a live version of my project is here:  (https://markk0042.github.io/Milestone1project.github.io/).
-![Gym Site-Image](css/assets/gym/gym-homepage.jpg)"
+A live Demo link to my website can be found: ![Here]((https://markk0042.github.io/Milestone1project.github.io/).)
+![Gym Site-Image](css/assets/gym/gym-homepage.jpg)
 
 
 ### **Introduction:**
