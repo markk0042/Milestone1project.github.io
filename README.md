@@ -74,21 +74,23 @@ also i had to watch some youtube videos and google theories on using github page
 
 ### **Content:**
 
-The text mentioned in the gyms card features about the gyms exercise areas and features etc was quoted from, 
+**The text mentioned in the gyms card features about the gyms exercise areas and features etc was quoted from:**
 
 - (https://www.holmesplace.com/en/en/blog/fitness/what-areas-are-available-in-a-gym)
 
-The text section from my footer was similar to what was given in my footer layout from 
+**The text section from my footer was similar to what was given in my footer layout from:**
 
 - (https://mdbootstrap.com/products/jquery-ui-kit/....(I styled the footer quotes and text to reference my website and removed two rows so it is not packed too much and isnt squashed and is styled to the style which suits my site).
 
-The photos used in this site were obtained from open source free to use photos on: 
+**The photos used in this site were obtained from open source free to use photos on:**
 
 - (https://www.pexels.com/collections/crossfit-gym-exercise-workout-training-rhf4lf3/)
 
-The footer/Modal layout/ structure I used was from: 
+**The footer/Modal layout/ structure I used was from:** 
 
-- (https://getbootstrap.com/docs/4.4/components/modal/ (https://mdbootstrap.com/products/jquery-ui-kit/ https://getbootstrap.com/docs/4.4/components/card/#header-and-footer)
+- (https://getbootstrap.com/docs/4.4/components/modal/)
+- (https://mdbootstrap.com/products/jquery-ui-kit/)
+- (https://getbootstrap.com/docs/4.4/components/card/#header-and-footer)
 
 ### **The icons I used were from:**
 
